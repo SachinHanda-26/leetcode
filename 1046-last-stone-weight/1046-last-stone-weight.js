@@ -14,5 +14,5 @@ var lastStoneWeight = function (stones) {
         }
     }
 
-    return pq.dequeue() || 0;
+    return pq.size() ? pq.dequeue() : 0;
 };
