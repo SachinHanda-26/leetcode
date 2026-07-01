@@ -3,15 +3,20 @@
  * @return {number}
  */
 var lastStoneWeight = function (stones) {
-    while (stones.length > 1) {
-        stones.sort((a, b) => b - a);
-        let y = stones.shift();
-        let x = stones.shift();
+    let pq = new MaxPriorityQueue();
+
+    for (let i = 0; i < stones.length; i++) {
+        pq.enqueue(stones[i]);
+    }
+
+    while (pq.size() > 1) {
+        let y = pq.dequeue();
+        let x = pq.dequeue();
 
         if (y !== x) {
-            stones.push(y - x);
+            pq.enqueue(y - x);
         }
     }
 
-    return stones.length ? stones[0] : 0;
+    return pq.dequeue() || 0;
 };
