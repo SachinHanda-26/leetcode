@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -82,4 +83,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/SachinHanda-26/leetcode/tree/master/0206-reverse-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
