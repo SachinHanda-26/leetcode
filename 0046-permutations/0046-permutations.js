@@ -8,7 +8,6 @@ var permute = function (nums) {
 
     function backtrack(path) {
 
-        console.log(path);
         if (path.length == nums.length) {
             result.push([...path]);
             return;
