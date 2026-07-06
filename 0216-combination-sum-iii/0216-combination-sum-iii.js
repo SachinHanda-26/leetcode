@@ -14,7 +14,7 @@ var combinationSum3 = function (k, n) {
 
         if (path.length == k) return;
 
-        for (let i = start; i <= 9; i++) {
+        for (let i = start; i <= 9 && i <= remainingSum; i++) {
             path.push(i);
             backtrack(remainingSum - i, path, i + 1)
             path.pop();
