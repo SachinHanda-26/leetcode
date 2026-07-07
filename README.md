@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SachinHanda-26/leetcode/tree/master/0046-permutations) |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0090-subsets-ii) |
+## String
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
