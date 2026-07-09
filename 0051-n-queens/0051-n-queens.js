@@ -39,7 +39,7 @@ var solveNQueens = function (n) {
         }
     }
 
-    backtrack(board, 0, new Set, new Set, new Set);
+    backtrack(board, 0, new Set(), new Set(), new Set());
 
     return result;
 
