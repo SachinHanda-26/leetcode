@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/SachinHanda-26/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/SachinHanda-26/leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SachinHanda-26/leetcode/tree/master/0131-palindrome-partitioning) |
+| [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0860-lemonade-change](https://github.com/SachinHanda-26/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
 <!---LeetCode Topics End-->
