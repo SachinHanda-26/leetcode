@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SachinHanda-26/leetcode/tree/master/0860-lemonade-change) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
+| [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SachinHanda-26/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
+| [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0112-path-sum) |
+## Simulation
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
+## Prefix Sum
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
