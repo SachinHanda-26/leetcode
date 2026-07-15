@@ -4,27 +4,31 @@
  */
 var candy = function (ratings) {
     let n = ratings.length;
+    let ans = n;
 
-    let ltr = Array(n).fill(1);
+    let i = 1;
+    while (i < n) {
 
-    for (let i = 1; i < n; i++) {
-        if (ratings[i] > ratings[i - 1]) {
-            ltr[i] = ltr[i - 1] + 1;
+        if (ratings[i] == ratings[i - 1]) {
+            ++i;
+            continue;
         }
-    }
 
-    let rtl = Array(n).fill(1);
-
-    for (let i = n - 2; i >= 0; i--) {
-        if (ratings[i] > ratings[i + 1]) {
-            rtl[i] = rtl[i + 1] + 1;
+        let up = 0;
+        while (i < n && ratings[i] > ratings[i - 1]) {
+            ++up;
+            ans = ans + up;
+            i++;
         }
-    }
 
-    let ans = 0;
+        let down = 0;
+        while (i < n && ratings[i] < ratings[i - 1]) {
+            ++down;
+            ans = ans + down;
+            i++;
+        }
 
-    for (let i = 0; i < n; i++) {
-        ans = ans + Math.max(ltr[i], rtl[i]);
+        ans = ans - Math.min(up, down);
     }
 
     return ans;
