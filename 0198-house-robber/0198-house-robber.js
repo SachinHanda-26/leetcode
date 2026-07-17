@@ -3,19 +3,12 @@
  * @return {number}
  */
 var rob = function (nums) {
-    let dp = {};
+    let n = nums.length;
+    let dp = [nums[0], Math.max(nums[0], nums[1])];
 
-    function helper(i) {
-        if (i == 0) return nums[0];
-
-        if (i == 1) return Math.max(nums[0], nums[i]);
-
-        if (!(i in dp)) {
-            dp[i] = Math.max(helper(i - 2) + nums[i], helper(i - 1));
-        }
-
-        return dp[i];
+    for (let i = 2; i <= n; i++) {
+        dp[i] = Math.max(dp[i - 2] + nums[i], dp[i - 1]);
     }
 
-    return helper(nums.length - 1);
+    return dp[n - 1];
 };
