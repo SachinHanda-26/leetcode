@@ -12,7 +12,7 @@ var coinChange = function (coins, amount) {
         for (let j = 0; j < n; j++) {
             let remainingAmount = rem - coins[j];
             if (remainingAmount >= 0) {
-                dp[rem] = Math.min(dp[rem], 1 + dp[remainingAmount])
+                dp[rem] = Math.min(dp[rem], 1 + dp[remainingAmount]);
             }
         }
     }
