@@ -9,8 +9,10 @@ var countSubstrings = function (s) {
 
     // Base Case - 1 and 2 length substrings
     for (let i = 0; i < n; i++) {
+        // 1 length
         dp[i][i] = true;
         ans++;
+        // 2 length
         if (i < n - 1 && s[i] == s[i + 1]) {
             dp[i][i + 1] = true;
             ans++;
