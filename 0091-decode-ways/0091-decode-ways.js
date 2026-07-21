@@ -22,7 +22,7 @@ var numDecodings = function (s) {
             ans += fn(remS.substring(0, n - 2));
         }
         dp[remS] = ans;
-        return ans;
+        return dp[remS];
     }
 
     return fn(s);
