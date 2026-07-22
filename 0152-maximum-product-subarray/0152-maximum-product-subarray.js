@@ -3,16 +3,17 @@
  * @return {number}
  */
 var maxProduct = function (nums) {
-    let maxSoFar = nums[0];
-    let minSoFar = nums[0];
-    let totalMax = nums[0];
+    let n = nums.length;
+    let ltrProd = rtlProd = 1;
+    let finalMax = -Infinity;
 
-    for (let i = 1; i < nums.length; i++) {
-        maxSoFarCopy = maxSoFar;
-        maxSoFar = Math.max(nums[i], maxSoFar * nums[i], minSoFar * nums[i]);
-        minSoFar = Math.min(nums[i], maxSoFarCopy * nums[i], minSoFar * nums[i]);
-        totalMax = Math.max(totalMax, maxSoFar);
+    for (let i = 0; i < n; i++) {
+        ltrProd = ltrProd * nums[i];
+        rtlProd = rtlProd * nums[n - i - 1];
+        finalMax = Math.max(finalMax, ltrProd, rtlProd);
+        if (ltrProd == 0) ltrProd = 1;
+        if (rtlProd == 0) rtlProd = 1;
     }
 
-    return totalMax;
+    return finalMax;
 };
