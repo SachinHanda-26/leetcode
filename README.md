@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SachinHanda-26/leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/SachinHanda-26/leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SachinHanda-26/leetcode/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SachinHanda-26/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/SachinHanda-26/leetcode/tree/master/0091-decode-ways) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
