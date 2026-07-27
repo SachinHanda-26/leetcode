@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SachinHanda-26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/SachinHanda-26/leetcode/tree/master/0216-combination-sum-iii) |
+| [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0112-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SachinHanda-26/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Greedy
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SachinHanda-26/leetcode/tree/master/0322-coin-change) |
+| [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SachinHanda-26/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Simulation
 |  |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
+| [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SachinHanda-26/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
 |  |
