@@ -12,16 +12,16 @@
  */
 var cloneGraph = function (node) {
     if (!node) return null;
-    let q = [node];
+    let stack = [node];
     let visited = new Map();
     let cloneRoot = new Node(node.val)
     visited.set(node, cloneRoot);
 
-    while (q.length) {
-        let curr = q.shift();
+    while (stack.length) {
+        let curr = stack.pop();
         for (let n of curr.neighbors) {
             if (!visited.has(n)) {
-                q.push(n);
+                stack.push(n);
                 visited.set(n, new Node(n.val));
             }
             let cloneCurr = visited.get(curr);
