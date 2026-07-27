@@ -12,22 +12,20 @@
  */
 var cloneGraph = function (node) {
     if (!node) return null;
-    let stack = [node];
     let visited = new Map();
-    let cloneRoot = new Node(node.val)
-    visited.set(node, cloneRoot);
 
-    while (stack.length) {
-        let curr = stack.pop();
-        for (let n of curr.neighbors) {
-            if (!visited.has(n)) {
-                stack.push(n);
-                visited.set(n, new Node(n.val));
-            }
-            let cloneCurr = visited.get(curr);
-            cloneCurr.neighbors.push(visited.get(n));
+    function dfs(curr) {
+        if (visited.has(curr)) {
+            return visited.get(curr);
         }
+        let clone = new Node(curr.val);
+        visited.set(curr, clone);
+
+        for (let neighbor of curr.neighbors) {
+            clone.neighbors.push(dfs(neighbor));
+        }
+        return clone;
     }
 
-    return cloneRoot;
+    return dfs(node);
 };
