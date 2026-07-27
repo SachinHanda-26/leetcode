@@ -22,14 +22,12 @@ var validPath = function (n, edges, source, destination) {
 
         if (curr == destination) return true;
 
-        if (visited.has(curr)) {
-            return false;
-        }
-
         visited.add(curr);
 
         for (let neighbor of map[curr]) {
-            if (dfs(neighbor)) return true;
+            if (!visited.has(neighbor)) {
+                if (dfs(neighbor)) return true;
+            }
         }
 
         return false;
