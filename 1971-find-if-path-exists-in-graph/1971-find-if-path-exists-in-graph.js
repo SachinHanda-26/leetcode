@@ -16,20 +16,24 @@ var validPath = function (n, edges, source, destination) {
         map[y].push(x);
     }
 
-    let q = [source];
     let visited = new Set();
-    visited.add(source);
 
-    while (q.length) {
-        let curr = q.shift();
+    function dfs(curr) {
+
         if (curr == destination) return true;
-        for (let neighbor of map[curr]) {
-            if (!visited.has(neighbor)) {
-                q.push(neighbor);
-                visited.add(neighbor);
-            }
+
+        if (visited.has(curr)) {
+            return false;
         }
+
+        visited.add(curr);
+
+        for (let neighbor of map[curr]) {
+            if (dfs(neighbor)) return true;
+        }
+
+        return false;
     }
 
-    return false;
+    return dfs(source);
 };
