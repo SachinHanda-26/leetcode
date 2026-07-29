@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SachinHanda-26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SachinHanda-26/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SachinHanda-26/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Tree
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SachinHanda-26/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
+| [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/SachinHanda-26/leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SachinHanda-26/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SachinHanda-26/leetcode/tree/master/0509-fibonacci-number) |
+| [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
 ## Memoization
 |  |
 | ------- |
