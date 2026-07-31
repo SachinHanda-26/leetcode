@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SachinHanda-26/leetcode/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SachinHanda-26/leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0090-subsets-ii) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SachinHanda-26/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
