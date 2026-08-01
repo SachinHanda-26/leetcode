@@ -2,6 +2,8 @@
  * @param {number[]} nums
  * @return {void} Do not return anything, modify nums in-place instead.
  */
+
+// This is known as Dutch National Flag Algorithm
 var sortColors = function (nums) {
     let low = 0;
     let mid = 0;
