@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
+| [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SachinHanda-26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
