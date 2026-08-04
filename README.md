@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SachinHanda-26/leetcode/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
+| [0205-isomorphic-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SachinHanda-26/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
