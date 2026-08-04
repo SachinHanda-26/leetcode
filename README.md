@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/SachinHanda-26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SachinHanda-26/leetcode/tree/master/0046-permutations) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SachinHanda-26/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/SachinHanda-26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SachinHanda-26/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0079-word-search](https://github.com/SachinHanda-26/leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/SachinHanda-26/leetcode/tree/master/0091-decode-ways) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/SachinHanda-26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
 ## Combinatorics
 |  |
