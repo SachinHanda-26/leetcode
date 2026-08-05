@@ -3,12 +3,13 @@
  * @return {number}
  */
 var longestConsecutive = function (nums) {
+    if (nums.length == 0) return 0;
+
     nums.sort((a, b) => a - b);
 
     let longest = 1;
     let current = 1;
 
-    if (nums.length == 0) return 0;
 
     for (let i = 0; i < nums.length; i++) {
         if (nums[i] == nums[i + 1]) continue;
