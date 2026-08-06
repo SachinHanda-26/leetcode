@@ -324,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
