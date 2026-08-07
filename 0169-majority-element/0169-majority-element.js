@@ -3,29 +3,21 @@
  * @return {number}
  */
 var majorityElement = function (nums) {
-    let map = {};
+    // Optimal Solution (Boyer-Moore Voting Algorithm)
+    // The problem guarantees that a majority element always exists (appears more than ⌊n/2⌋ times).
+    let candidate = null;
+    let count = 0;
 
-    for (let i = 0; i < nums.length; i++) {
-        if (!map[nums[i]]) map[nums[i]] = 1;
-        else {
-            ++map[nums[i]];
+    for (let num of nums) {
+        if (count == 0) {
+            candidate = num;
+        }
+
+        if (num == candidate) {
+            count++;
+        } else {
+            count--;
         }
     }
-
-    let max = -Infinity;
-
-    for (let i = 0; i < nums.length; i++) {
-        max = Math.max(max, map[nums[i]]);
-    }
-
-    let ans = 0;
-
-    for (let key in map) {
-        if (map[key] == max) {
-            ans = Number(key);
-            break;
-        }
-    }
-
-    return ans;
+    return candidate;
 };
