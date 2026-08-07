@@ -289,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SachinHanda-26/leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/SachinHanda-26/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SachinHanda-26/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Memoization
 |  |
 | ------- |
