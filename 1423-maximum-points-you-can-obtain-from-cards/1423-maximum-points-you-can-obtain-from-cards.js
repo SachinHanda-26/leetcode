@@ -3,6 +3,8 @@
  * @param {number} k
  * @return {number}
  */
+
+// Sliding Window 
 var maxScore = function (cardPoints, k) {
     let n = cardPoints.length;
     let totalSum = 0;
