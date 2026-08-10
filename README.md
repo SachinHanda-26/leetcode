@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SachinHanda-26/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 ## Quickselect
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SachinHanda-26/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SachinHanda-26/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0112-path-sum) |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/SachinHanda-26/leetcode/tree/master/0322-coin-change) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SachinHanda-26/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SachinHanda-26/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -319,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/SachinHanda-26/leetcode/tree/master/0133-clone-graph) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0797-all-paths-from-source-to-target](https://github.com/SachinHanda-26/leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/SachinHanda-26/leetcode/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SachinHanda-26/leetcode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -353,4 +358,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SachinHanda-26/leetcode/tree/master/0169-majority-element) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
