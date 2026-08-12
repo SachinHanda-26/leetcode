@@ -16,10 +16,7 @@ Trie.prototype.insert = function (word) {
     let curr = this.root;
     for (let char of word) {
         if (!curr.children[char]) {
-            curr.children[char] = {
-                children : {},
-                isEndOfWord : false,
-            }
+            curr.children[char] = new TrieNode();
         }
         curr = curr.children[char];
     }
