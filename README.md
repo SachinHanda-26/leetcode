@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinHanda-26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SachinHanda-26/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/SachinHanda-26/leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinHanda-26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinHanda-26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/SachinHanda-26/leetcode/tree/master/0242-valid-anagram) |
 | [0332-reconstruct-itinerary](https://github.com/SachinHanda-26/leetcode/tree/master/0332-reconstruct-itinerary) |
 | [0387-first-unique-character-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -316,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/SachinHanda-26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/SachinHanda-26/leetcode/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/SachinHanda-26/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 ## Combinatorics
 |  |
 | ------- |
