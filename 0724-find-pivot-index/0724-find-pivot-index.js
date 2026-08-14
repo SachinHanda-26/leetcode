@@ -2,10 +2,12 @@
  * @param {number[]} nums
  * @return {number}
  */
+
+// prefixSum approach
 var pivotIndex = function (nums) {
     let sum = 0;
     let leftSum = 0;
-    
+
     for (let num of nums) {
         sum += num;
     }
