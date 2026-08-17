@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/SachinHanda-26/leetcode/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SachinHanda-26/leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/SachinHanda-26/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SachinHanda-26/leetcode/tree/master/0051-n-queens) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/SachinHanda-26/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/SachinHanda-26/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SachinHanda-26/leetcode/tree/master/0062-unique-paths) |
@@ -280,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SachinHanda-26/leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/SachinHanda-26/leetcode/tree/master/0134-gas-station) |
