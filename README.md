@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SachinHanda-26/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SachinHanda-26/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SachinHanda-26/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SachinHanda-26/leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Heap (Priority Queue)
 |  |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SachinHanda-26/leetcode/tree/master/0877-stone-game) |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SachinHanda-26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
 |  |
