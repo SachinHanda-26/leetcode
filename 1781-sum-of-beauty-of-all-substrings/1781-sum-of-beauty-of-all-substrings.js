@@ -14,7 +14,7 @@ var beautySum = function (s) {
 
             let max = 0;
             let min = Infinity;
-            
+
             for (let k = 0; k < 26; k++) {
                 if (freq[k] > 0) {
                     max = Math.max(max, freq[k]);
