@@ -4,7 +4,6 @@
  */
 var beautySum = function (s) {
     let beautySum = 0;
-    let beauty = 0;
 
     for (let i = 0; i < s.length; i++) {
         let freq = new Array(26).fill(0);
