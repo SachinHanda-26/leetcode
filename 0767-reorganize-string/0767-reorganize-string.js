@@ -4,7 +4,7 @@
  */
 var reorganizeString = function (s) {
     let freq = {};
-    maxFreq = 0;
+    let maxFreq = 0;
 
     for (let c of s) {
         if (!freq[c]) freq[c] = 1;
