@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0394-decode-string](https://github.com/SachinHanda-26/leetcode/tree/master/0394-decode-string) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
+| [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinHanda-26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -459,4 +460,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinHanda-26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
