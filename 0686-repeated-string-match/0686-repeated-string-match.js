@@ -56,6 +56,7 @@ function rabinKarp(text, pattern) {
             }
         }
         if (i < n - m) {
+            // Rolling Window Hash Calcualtion
             windowHash = (windowHash - (power * text.charCodeAt(i))) % mod;
             if (windowHash < 0) windowHash += mod;
             windowHash = (windowHash * base + text.charCodeAt(i + m)) % mod;
