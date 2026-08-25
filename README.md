@@ -409,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 ## Stack
 |  |
 | ------- |
@@ -483,4 +484,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
