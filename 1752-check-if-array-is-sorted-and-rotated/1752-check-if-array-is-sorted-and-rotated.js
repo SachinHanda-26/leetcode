@@ -11,5 +11,5 @@ var check = function (nums) {
             count++;
         }
     }
-    return count <= 1; F
+    return count <= 1;
 };
