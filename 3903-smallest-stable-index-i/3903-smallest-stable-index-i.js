@@ -15,8 +15,8 @@ var firstStableIndex = function (nums, k) {
 
     for (let i = 0; i < n; i++) {
         maxSeen = Math.max(maxSeen, nums[i]);
-        let instablility = maxSeen - suffixMin[i];
-        if (instablility <= k) {
+        let instability = maxSeen - suffixMin[i];
+        if (instability <= k) {
             return i;
         }
     }
