@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/SachinHanda-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SachinHanda-26/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SachinHanda-26/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3903-smallest-stable-index-i](https://github.com/SachinHanda-26/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/SachinHanda-26/leetcode/tree/master/0724-find-pivot-index) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SachinHanda-26/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [3903-smallest-stable-index-i](https://github.com/SachinHanda-26/leetcode/tree/master/3903-smallest-stable-index-i) |
 ## Math
 |  |
 | ------- |
