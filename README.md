@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinHanda-26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [0940-distinct-subsequences-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/SachinHanda-26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/SachinHanda-26/leetcode/tree/master/0877-stone-game) |
 | [0887-super-egg-drop](https://github.com/SachinHanda-26/leetcode/tree/master/0887-super-egg-drop) |
+| [0940-distinct-subsequences-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SachinHanda-26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Depth-First Search
