@@ -379,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0887-super-egg-drop](https://github.com/SachinHanda-26/leetcode/tree/master/0887-super-egg-drop) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SachinHanda-26/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/SachinHanda-26/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/SachinHanda-26/leetcode/tree/master/3870-count-commas-in-range) |
 ## Memoization
 |  |
 | ------- |
