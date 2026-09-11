@@ -8,15 +8,15 @@ var setZeroes = function (matrix) {
 
     let firstRowZero = false;
     let firstColZero = false;
-
+    // Check first row
     for (let j = 0; j < m; j++) {
         if (matrix[0][j] === 0) firstRowZero = true;
     }
-
+    // Check first column
     for (let i = 0; i < n; i++) {
         if (matrix[i][0] === 0) firstColZero = true;
     }
-
+    // Use first row and first column as markers
     for (let i = 1; i < n; i++) {
         for (let j = 1; j < m; j++) {
             if (matrix[i][j] == 0) {
@@ -25,7 +25,7 @@ var setZeroes = function (matrix) {
             }
         }
     }
-
+    // Set cells to zero based on markers
     for (let i = 1; i < n; i++) {
         for (let j = 1; j < m; j++) {
             // your condition here
@@ -35,14 +35,15 @@ var setZeroes = function (matrix) {
         }
     }
 
-    if(firstRowZero){
-        for(let j = 0; j < m; j++){
+    // Zero out first row if originally required
+    if (firstRowZero) {
+        for (let j = 0; j < m; j++) {
             matrix[0][j] = 0;
         }
     }
-
-    if(firstColZero){
-        for(let i = 0; i < n; i++){
+    // Zero out first column if originally required
+    if (firstColZero) {
+        for (let i = 0; i < n; i++) {
             matrix[i][0] = 0;
         }
     }
