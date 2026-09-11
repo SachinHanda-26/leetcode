@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0040-combination-sum-ii) |
 | [0045-jump-game-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/SachinHanda-26/leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/SachinHanda-26/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SachinHanda-26/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SachinHanda-26/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SachinHanda-26/leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/SachinHanda-26/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SachinHanda-26/leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -378,6 +380,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/SachinHanda-26/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SachinHanda-26/leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SachinHanda-26/leetcode/tree/master/0189-rotate-array) |
