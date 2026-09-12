@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/SachinHanda-26/leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/SachinHanda-26/leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/SachinHanda-26/leetcode/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/SachinHanda-26/leetcode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/SachinHanda-26/leetcode/tree/master/0057-insert-interval) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SachinHanda-26/leetcode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/SachinHanda-26/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/SachinHanda-26/leetcode/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0043-multiply-strings) |
+| [0054-spiral-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0054-spiral-matrix) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SachinHanda-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/2390-removing-stars-from-a-string) |
