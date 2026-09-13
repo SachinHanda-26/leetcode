@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0647-palindromic-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/0647-palindromic-substrings) |
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
+| [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SachinHanda-26/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/SachinHanda-26/leetcode/tree/master/0881-boats-to-save-people) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SachinHanda-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/SachinHanda-26/leetcode/tree/master/0686-repeated-string-match) |
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
+| [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinHanda-26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -367,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0054-spiral-matrix) |
+| [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SachinHanda-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2390-removing-stars-from-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SachinHanda-26/leetcode/tree/master/0394-decode-string) |
+| [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinHanda-26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/2390-removing-stars-from-a-string) |
 ## Boyer–Moore Majority Vote Algorithm
