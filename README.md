@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SachinHanda-26/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/SachinHanda-26/leetcode/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/SachinHanda-26/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SachinHanda-26/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/SachinHanda-26/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0054-spiral-matrix) |
+| [0682-baseball-game](https://github.com/SachinHanda-26/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SachinHanda-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/SachinHanda-26/leetcode/tree/master/0394-decode-string) |
+| [0682-baseball-game](https://github.com/SachinHanda-26/leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/SachinHanda-26/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/2390-removing-stars-from-a-string) |
