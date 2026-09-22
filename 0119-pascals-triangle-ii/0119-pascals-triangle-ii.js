@@ -3,18 +3,13 @@
  * @return {number[]}
  */
 var getRow = function (rowIndex) {
-    let result = [];
+    let row = [1];
 
-    for (let i = 0; i <= rowIndex; i++) {
-        let row = [];
-        for (let j = 0; j <= i; j++) {
-            if (j == 0 || j == i) {
-                row.push(1);
-            } else {
-                row.push(result[i - 1][j - 1] + result[i - 1][j]);
-            }
+    for (let i = 1; i <= rowIndex; i++) {
+        for (let j = i - 1; j >= 1; j--) {
+            row[j] = row[j - 1] + row[j];
         }
-        result.push(row);
+        row.push(1);
     }
-    return result[rowIndex];
+    return row;
 };
