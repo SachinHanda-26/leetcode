@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SachinHanda-26/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SachinHanda-26/leetcode/tree/master/0486-predict-the-winner) |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
 | [0518-coin-change-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0518-coin-change-ii) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0643-maximum-average-subarray-i](https://github.com/SachinHanda-26/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/SachinHanda-26/leetcode/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/SachinHanda-26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
 | [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/SachinHanda-26/leetcode/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SachinHanda-26/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -567,4 +570,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/SachinHanda-26/leetcode/tree/master/0836-rectangle-overlap) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
+## Treap
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
