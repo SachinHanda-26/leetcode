@@ -3,14 +3,16 @@
  * @return {number}
  */
 var findLucky = function (arr) {
-    let count = new Array(501).fill(0);
+    let map = new Map();
+    let max = -1;
+
     for (let ele of arr) {
-        count[ele]++;
+        map.set(ele, (map.get(ele) || 0) + 1);
     }
-    for (let i = 501; i >= 1; i--) {
-        if (i == count[i]) {
-            return i;
+    for (let [key, value] of map) {
+        if (key == value) {
+            max = Math.max(max, key);
         }
     }
-    return -1;
+    return max;
 };
