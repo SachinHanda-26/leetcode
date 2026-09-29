@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [1207-unique-number-of-occurrences](https://github.com/SachinHanda-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SachinHanda-26/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SachinHanda-26/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0763-partition-labels](https://github.com/SachinHanda-26/leetcode/tree/master/0763-partition-labels) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/SachinHanda-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SachinHanda-26/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/SachinHanda-26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/SachinHanda-26/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2351-first-letter-to-appear-twice](https://github.com/SachinHanda-26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
 ## Matrix
