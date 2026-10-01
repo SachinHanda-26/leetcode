@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/SachinHanda-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/SachinHanda-26/leetcode/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SachinHanda-26/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SachinHanda-26/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/SachinHanda-26/leetcode/tree/master/0881-boats-to-save-people) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2706-buy-two-chocolates](https://github.com/SachinHanda-26/leetcode/tree/master/2706-buy-two-chocolates) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/SachinHanda-26/leetcode/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quickselect
 |  |
 | ------- |
