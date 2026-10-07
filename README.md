@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/SachinHanda-26/leetcode/tree/master/0860-lemonade-change) |
 | [0877-stone-game](https://github.com/SachinHanda-26/leetcode/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/SachinHanda-26/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/SachinHanda-26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
 | [1046-last-stone-weight](https://github.com/SachinHanda-26/leetcode/tree/master/1046-last-stone-weight) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
 | [0881-boats-to-save-people](https://github.com/SachinHanda-26/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/SachinHanda-26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-two-city-scheduling](https://github.com/SachinHanda-26/leetcode/tree/master/1029-two-city-scheduling) |
 | [1094-car-pooling](https://github.com/SachinHanda-26/leetcode/tree/master/1094-car-pooling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/SachinHanda-26/leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/SachinHanda-26/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [0881-boats-to-save-people](https://github.com/SachinHanda-26/leetcode/tree/master/0881-boats-to-save-people) |
+| [0977-squares-of-a-sorted-array](https://github.com/SachinHanda-26/leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/SachinHanda-26/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Recursion
 |  |
