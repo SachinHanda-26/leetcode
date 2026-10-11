@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/SachinHanda-26/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/SachinHanda-26/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/SachinHanda-26/leetcode/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SachinHanda-26/leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/SachinHanda-26/leetcode/tree/master/0118-pascals-triangle) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/SachinHanda-26/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SachinHanda-26/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/SachinHanda-26/leetcode/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/SachinHanda-26/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/SachinHanda-26/leetcode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/0493-reverse-pairs) |
