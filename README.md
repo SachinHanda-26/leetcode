@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/SachinHanda-26/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/SachinHanda-26/leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/SachinHanda-26/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SachinHanda-26/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/SachinHanda-26/leetcode/tree/master/0486-predict-the-winner) |
@@ -469,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/SachinHanda-26/leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SachinHanda-26/leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SachinHanda-26/leetcode/tree/master/0189-rotate-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/SachinHanda-26/leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0486-predict-the-winner](https://github.com/SachinHanda-26/leetcode/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/SachinHanda-26/leetcode/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/0633-sum-of-square-numbers) |
