@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1584-min-cost-to-connect-all-points](https://github.com/SachinHanda-26/leetcode/tree/master/1584-min-cost-to-connect-all-points) |
+| [1748-sum-of-unique-elements](https://github.com/SachinHanda-26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/SachinHanda-26/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/SachinHanda-26/leetcode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SachinHanda-26/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
 | [1207-unique-number-of-occurrences](https://github.com/SachinHanda-26/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/SachinHanda-26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/SachinHanda-26/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2351-first-letter-to-appear-twice](https://github.com/SachinHanda-26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/SachinHanda-26/leetcode/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/SachinHanda-26/leetcode/tree/master/0767-reorganize-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SachinHanda-26/leetcode/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1748-sum-of-unique-elements](https://github.com/SachinHanda-26/leetcode/tree/master/1748-sum-of-unique-elements) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/SachinHanda-26/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [2148-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/SachinHanda-26/leetcode/tree/master/2148-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/SachinHanda-26/leetcode/tree/master/2351-first-letter-to-appear-twice) |
