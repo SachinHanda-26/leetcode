@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SachinHanda-26/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SachinHanda-26/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SachinHanda-26/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3693-climbing-stairs-ii](https://github.com/SachinHanda-26/leetcode/tree/master/3693-climbing-stairs-ii) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SachinHanda-26/leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3903-smallest-stable-index-i](https://github.com/SachinHanda-26/leetcode/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/SachinHanda-26/leetcode/tree/master/3904-smallest-stable-index-ii) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/SachinHanda-26/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/SachinHanda-26/leetcode/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/SachinHanda-26/leetcode/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+| [3693-climbing-stairs-ii](https://github.com/SachinHanda-26/leetcode/tree/master/3693-climbing-stairs-ii) |
 ## Depth-First Search
 |  |
 | ------- |
